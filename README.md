@@ -6,7 +6,7 @@ AI Engineer Enthusiast || AI & Web Development  || Data Analytics & Machine Lear
 
 For Collaboration / Projects / Internships / Tech Discussions 😊
 
-I'm a Computer Science Engineering student from India passionate about building intelligent software using Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Web Development.
+I'm a Computer Science Engineering student from India passionate about building intelligent software using Artificial Intelligence, Machine Learning, Agentic AI, and Web Development.
 
 I enjoy solving real-world problems through AI-powered applications, workflow automation, and scalable backend systems while continuously exploring the latest technologies.
 
