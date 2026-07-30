@@ -1,22 +1,23 @@
 💫 Hi 👋, I'm Preetam Kulkarni
 
-A  Computer Science Engineering Student || AI & Web Development Enthusiast || Data Analytics & Machine Learning Learner || Vibe Coding || Workflow Automation (n8n) from India
+AI Engineer Enthusiast || AI & Web Development  || Data Analytics & Machine Learning || Vibe Coding || Workflow Automation (n8n) from India
 
 ✉️ Email Me 👉 kulkarnipreetam3@gmail.com
 
 For Collaboration / Projects / Internships / Tech Discussions 😊
 
-🔭 I’m currently working on:
-• Automation workflows using n8n
-• Extracting & structuring unstructured PDF data
-• AI-ready dataset preparation
-• Backend development with Node.js, Express.js & MongoDB
+I'm a Computer Science Engineering student from India passionate about building intelligent software using Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Web Development.
 
-🌱 I’m currently learning:
-• Artificial Intelligence & Machine Learning
-• Data Analytics (Power BI, Tableau, SQL)
-• Cloud Computing & Cybersecurity basics
-• Full-Stack Web Development
+I enjoy solving real-world problems through AI-powered applications, workflow automation, and scalable backend systems while continuously exploring the latest technologies.
+
+🌱 Currently Learning
+Large Language Models (LLMs)
+Agentic AI & AI Agents
+Model Context Protocol (MCP)
+Advanced Machine Learning
+Deep Learning & Computer Vision
+Data Analytics (Power BI, SQL & Tableau)
+Cloud Computing & DevOps
 
 👯 I’m looking to collaborate on:
 • AI/ML projects
